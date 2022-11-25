@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "watch": "tsc -w",
+    "start": "nodemon dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/trujillo9616/trureddit/issues"
   },
-  "homepage": "https://github.com/trujillo9616/trureddit#readme"
+  "homepage": "https://github.com/trujillo9616/trureddit#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3"
+  }
 }
