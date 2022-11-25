@@ -1,0 +1,19 @@
+{
+  "name": "trureddit-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/trujillo9616/trureddit.git"
+  },
+  "author": "Adrian Trujillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trujillo9616/trureddit/issues"
+  },
+  "homepage": "https://github.com/trujillo9616/trureddit#readme"
+}
